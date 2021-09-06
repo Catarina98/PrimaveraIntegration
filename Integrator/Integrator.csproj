@@ -85,6 +85,10 @@
       <Project>{1B6F364D-5728-4778-8587-E36905376114}</Project>
       <Name>Primavera.Integration</Name>
     </ProjectReference>
+    <ProjectReference Include="..\QRCode\QRCode.csproj">
+      <Project>{470c9dd9-fd08-454b-8135-773463421731}</Project>
+      <Name>QRCode</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

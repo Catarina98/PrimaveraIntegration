@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.106
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integrator", "Integrator\Integrator.csproj", "{B30E38BE-DA55-4A6F-9191-48DE96A25F49}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primavera.Integration", "Primavera.Integration\Primavera.Integration.csproj", "{1B6F364D-5728-4778-8587-E36905376114}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primavera.Integration.Services", "Primavera.Integration.Services\Primavera.Integration.Services.csproj", "{F4DBFBA0-F16E-4D07-B725-90093FC14916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode", "QRCode\QRCode.csproj", "{470C9DD9-FD08-454B-8135-773463421731}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +45,14 @@ Global
 		{F4DBFBA0-F16E-4D07-B725-90093FC14916}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F4DBFBA0-F16E-4D07-B725-90093FC14916}.Release|x86.ActiveCfg = Release|x86
 		{F4DBFBA0-F16E-4D07-B725-90093FC14916}.Release|x86.Build.0 = Release|x86
+		{470C9DD9-FD08-454B-8135-773463421731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470C9DD9-FD08-454B-8135-773463421731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470C9DD9-FD08-454B-8135-773463421731}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{470C9DD9-FD08-454B-8135-773463421731}.Debug|x86.Build.0 = Debug|Any CPU
+		{470C9DD9-FD08-454B-8135-773463421731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470C9DD9-FD08-454B-8135-773463421731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{470C9DD9-FD08-454B-8135-773463421731}.Release|x86.ActiveCfg = Release|Any CPU
+		{470C9DD9-FD08-454B-8135-773463421731}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

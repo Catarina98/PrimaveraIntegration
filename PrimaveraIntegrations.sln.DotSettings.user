@@ -1,4 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Ccatar_005CRiderProjects_005CPrimaveraIntegration_005CQRCodeLibrary_005CQRCodeDecoderLibrary_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Ccatar_005CRiderProjects_005CPrimaveraIntegration_005CQRCodeLibrary_005CQRCodeEncoderLibrary_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="C:\Users\catar\RiderProjects\PrimaveraIntegrations\PrimaveraIntegrations\PrimaveraV10Dlls\IntBE100.dll" /&gt;&#xD;
   &lt;Assembly Path="C:\Users\catar\RiderProjects\PrimaveraIntegrations\PrimaveraV10Dlls\ErpBS100.dll" /&gt;&#xD;

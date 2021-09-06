@@ -1,0 +1,8 @@
+C:\Users\catar\RiderProjects\PrimaveraIntegration\QRCode\bin\Debug\QRCode.dll
+C:\Users\catar\RiderProjects\PrimaveraIntegration\QRCode\bin\Debug\QRCode.pdb
+C:\Users\catar\RiderProjects\PrimaveraIntegration\QRCode\bin\Debug\QRCodeDecoderLibrary.dll
+C:\Users\catar\RiderProjects\PrimaveraIntegration\QRCode\obj\Debug\QRCode.csproj.AssemblyReference.cache
+C:\Users\catar\RiderProjects\PrimaveraIntegration\QRCode\obj\Debug\QRCode.csproj.CoreCompileInputs.cache
+C:\Users\catar\RiderProjects\PrimaveraIntegration\QRCode\obj\Debug\QRCode.csproj.CopyComplete
+C:\Users\catar\RiderProjects\PrimaveraIntegration\QRCode\obj\Debug\QRCode.dll
+C:\Users\catar\RiderProjects\PrimaveraIntegration\QRCode\obj\Debug\QRCode.pdb

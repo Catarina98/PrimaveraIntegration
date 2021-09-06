@@ -32,3 +32,6 @@ C:\Users\catar\RiderProjects\PrimaveraIntegration\Integrator\obj\Debug\Integrato
 C:\Users\catar\RiderProjects\PrimaveraIntegration\Integrator\obj\Debug\Integrator.csproj.CopyComplete
 C:\Users\catar\RiderProjects\PrimaveraIntegration\Integrator\obj\Debug\Integrator.exe
 C:\Users\catar\RiderProjects\PrimaveraIntegration\Integrator\obj\Debug\Integrator.pdb
+C:\Users\catar\RiderProjects\PrimaveraIntegration\Integrator\bin\Debug\QRCodeDecoderLibrary.dll
+C:\Users\catar\RiderProjects\PrimaveraIntegration\Integrator\bin\Debug\QRCode.dll
+C:\Users\catar\RiderProjects\PrimaveraIntegration\Integrator\bin\Debug\QRCode.pdb
