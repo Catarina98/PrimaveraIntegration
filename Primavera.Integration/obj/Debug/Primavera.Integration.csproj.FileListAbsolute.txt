@@ -1,0 +1,14 @@
+C:\Users\catar\RiderProjects\PrimaveraIntegrations\Primavera.Integration\bin\Debug\Primavera.Integration.dll.config
+C:\Users\catar\RiderProjects\PrimaveraIntegrations\Primavera.Integration\bin\Debug\Primavera.Integration.dll
+C:\Users\catar\RiderProjects\PrimaveraIntegrations\Primavera.Integration\bin\Debug\Primavera.Integration.pdb
+C:\Users\catar\RiderProjects\PrimaveraIntegrations\Primavera.Integration\obj\Debug\Primavera.Integration.csproj.AssemblyReference.cache
+C:\Users\catar\RiderProjects\PrimaveraIntegrations\Primavera.Integration\obj\Debug\Primavera.Integration.csproj.CoreCompileInputs.cache
+C:\Users\catar\RiderProjects\PrimaveraIntegrations\Primavera.Integration\obj\Debug\Primavera.Integration.dll
+C:\Users\catar\RiderProjects\PrimaveraIntegrations\Primavera.Integration\obj\Debug\Primavera.Integration.pdb
+C:\Users\catar\RiderProjects\PrimaveraIntegration\Primavera.Integration\bin\Debug\Primavera.Integration.dll.config
+C:\Users\catar\RiderProjects\PrimaveraIntegration\Primavera.Integration\bin\Debug\Primavera.Integration.dll
+C:\Users\catar\RiderProjects\PrimaveraIntegration\Primavera.Integration\bin\Debug\Primavera.Integration.pdb
+C:\Users\catar\RiderProjects\PrimaveraIntegration\Primavera.Integration\obj\Debug\Primavera.Integration.csproj.AssemblyReference.cache
+C:\Users\catar\RiderProjects\PrimaveraIntegration\Primavera.Integration\obj\Debug\Primavera.Integration.csproj.CoreCompileInputs.cache
+C:\Users\catar\RiderProjects\PrimaveraIntegration\Primavera.Integration\obj\Debug\Primavera.Integration.dll
+C:\Users\catar\RiderProjects\PrimaveraIntegration\Primavera.Integration\obj\Debug\Primavera.Integration.pdb
